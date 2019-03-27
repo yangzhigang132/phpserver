@@ -7,6 +7,7 @@ $_['text_backup']               = 'Backup / Restore';
 $_['text_banner']               = 'Banners';
 $_['text_catalog']              = 'Catalog';
 $_['text_category']             = 'Categories';
+$_['model_management']          = 'Model Management';
 $_['text_country']              = 'Countries';
 $_['text_coupon']               = 'Coupons';
 $_['text_currency']             = 'Currencies';

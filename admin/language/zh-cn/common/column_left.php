@@ -7,6 +7,7 @@ $_['text_backup']                    = '备份 / 恢复';
 $_['text_banner']                    = '横幅广告';
 $_['text_catalog']                   = '商品目录';
 $_['text_category']                  = '商品分类';
+$_['model_management']               = '型号管理';
 $_['text_country']                   = '国家';
 $_['text_coupon']                    = '折扣券';
 $_['text_currency']                  = '货币';

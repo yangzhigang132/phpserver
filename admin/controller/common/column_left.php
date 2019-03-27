@@ -29,7 +29,7 @@ class ControllerCommonColumnLeft extends Controller {
 
 			if ($this->user->hasPermission('access', 'catalog/model_management')) {
 				$catalog[] = array(
-					'name'	   => "型号管理",
+					'name'	   => $this->language->get('model_management'),
 					'href'     => $this->url->link('catalog/model_management', 'user_token=' . $this->session->data['user_token'], true),
 					'children' => array()
 				);
